@@ -1,4 +1,4 @@
-sMailform
+<h1>sMailform</h1>
 
 This is a simple E-Mail Form.
 Used technologies and frameworks:
